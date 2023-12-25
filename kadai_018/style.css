@@ -9,7 +9,7 @@
 .top-child{
     width: 20%;
     background-color: #ffd9df;
-
+    margin:0 10px;
 }
 #middle {
     width: 800px;
